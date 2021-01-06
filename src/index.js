@@ -1,4 +1,8 @@
 import './styles.css';
+import './js/apiService.js';
+import './js/markupGallery.js';
+import './js/refs';
+import './js/render';
 import 'material-design-icons/iconfont/material-icons.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
